@@ -4,6 +4,8 @@ body{
    height: 100%;
    overflow: hidden;
    margin: 0;
+   font-size: larger;
+}
 }
 
 *{
@@ -92,5 +94,6 @@ footer{
     color: black !important;
     text-align: center;
 }
+
 
 
